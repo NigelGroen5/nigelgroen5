@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋 I'm Nigel Groen
+
+I am a second-year computer science student at Queen's University, passionate about software engineering, machine learning and building impactful real-world problems.
+
+Check out my personal portfolio: https://www.nigelgroen.me/
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nigelgroen5&layout=compact&theme=radical)
+
 
 <!--
 **NigelGroen5/nigelgroen5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

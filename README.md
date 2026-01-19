@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Nigel Groen
 
-I am a second-year computer science student at Queen's University, passionate about software engineering, machine learning and solving impactful real-world problems.
+I am a second-year computer science student at Queen's University, passionate about software engineering, solving impactful real-world problems and exploring new technologies.
 
 Check out my personal portfolio: https://www.nigelgroen.me/
 

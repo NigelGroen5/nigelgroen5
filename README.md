@@ -2,7 +2,7 @@
 
 I am a second-year computer science student at Queen's University, passionate about software engineering, solving impactful real-world problems and exploring new technologies.
 
-Check out my personal portfolio: https://www.nigelgroen.me/
+<!--Check out my personal portfolio: https://www.nigelgroen.me/
 
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nigelgroen5&layout=compact&theme=radical)
